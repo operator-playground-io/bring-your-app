@@ -1,0 +1,24 @@
+{
+  "title": "Bring Your Own Application",
+  "description": "We help you build your Application on Kubernetes.",
+  "logo": "_images/BYOA-LOGO.png",
+  "enabled": true,
+  "category_label": [
+    "Course"
+  ],
+  "document": "",
+  "stack_id": "Bring_Your_Own_Application-course_1655978537015",
+  "de_catalog_id": "Bring_Your_Own_Application-course_1655978537015",
+  "type": "Course",
+  "categories": [
+    "Containerization"
+  ],
+  "tag": [],
+  "has_api": false,
+  "has_dataset": false,
+  "is_certified": false,
+  "has_support": false,
+  "git_url": "",
+  "git_commit": "",
+  "installTime": "20 minutes"
+}
