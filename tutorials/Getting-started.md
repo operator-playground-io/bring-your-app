@@ -10,5 +10,5 @@ export AppName=<REPLACE APP NAME>
 
 Create the namespace where the application with be created.
 ```execute
-kubectl create $AppName
+kubectl create namespace $AppName
 ```

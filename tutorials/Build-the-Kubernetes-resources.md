@@ -1,7 +1,7 @@
 ###1. Clone the k8s templates
 
 ```execute
-git clone https://github.com/operator-playground-io/build-k8s-resources.git
+cd /home/student/code-server/ && git clone https://github.com/operator-playground-io/build-k8s-resources.git
 ```
 
 ###2. Create pre-requisite directory
