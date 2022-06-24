@@ -6,15 +6,22 @@
   "tutorials": [
     {
       "description": "Name the application. create the namespace",
-      "duration": "2 mins",
+      "duration": "5 mins",
       "title": "Getting started",
       "tutorial_name": "Getting-started.md"
     },
     {
       "description": "Create the yamls for the resources using the Developer Dashboard",
-      "duration": "15 mins",
+      "duration": "20 mins",
       "title": "Build the Kubernetes resources",
       "tutorial_name": "Build-the-Kubernetes-resources.md"
+    }
+    ,
+    {
+      "description": "Deploy the yamls to create resources in Kubernetes",
+      "duration": "5 mins",
+      "title": "Create the Kubernetes resources",
+      "tutorial_name": "Deploy-application.md"
     }
   ],
   "usefulLinks": [
